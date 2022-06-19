@@ -1,0 +1,186 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap');
+ 
+ #line{
+    height: 2px;
+    background-color: black;
+     
+ }
+
+ .navbar{
+    display: flex;
+    justify-content: space-between;
+     
+    padding: 5px ;
+    width: 80%;
+    margin: auto;
+ }
+
+ .navbar img{
+      height: 30px;
+      width: 100px;
+ }
+ .logo{
+    display: flex;
+    gap: 3px;
+    cursor: pointer;
+ }
+ .logo img{
+           height: 30px;
+           width: 30px;
+           border-radius: 5px;
+           
+ }
+ .cont{
+    height: 500px;
+    width: 80%;
+   display: flex;
+     border: 1px solid rgb(224, 223, 223);
+     margin: auto;
+     border-left: none;
+      border-right: none;
+      margin-top: 10px;
+ }
+ #first{
+     
+    height: 480px;
+    width: 25%;
+    border: 1px solid rgb(224, 223, 223);;
+    border-left: none;
+    border-top: none;
+    border-bottom: none;
+ }
+
+ #secd{
+   
+  height: 480px;
+  width: 25%;
+  border: 1px solid rgb(224, 223, 223);;
+  border-left: none;
+   border-top: none;
+   border-bottom: none;
+}
+
+#third{
+   
+  height: 480px;
+  width: 25%;
+  border: 1px solid rgb(224, 223, 223);;
+  border-left: none;
+  border-top: none;
+  border-bottom: none;
+}
+
+#four{
+   
+  height: 480px;
+  width: 25%;
+  border: 1px solid rgb(224, 223, 223);;
+  border-top: none;
+  border-right: none;
+  border-bottom: none;
+  border-left: none;
+}
+
+
+
+ .footer{
+    line-height: 25px;
+    cursor: pointer;
+    margin-left: 10px;
+   color: rgb(82, 79, 79);
+   font: 400 12px/22px Arial;
+ }
+
+ h4{
+   margin-left: 10px;
+ }
+ .net{
+       height: 40px;
+       width: 80%;
+       margin: auto;
+       border: 1px solid rgb(224, 223, 223);
+       display: flex;
+       border-top: none;
+       border-left: none;
+       border-right: none;
+ }
+ .sponsors{
+        margin-left: 30px;
+        color: gray ;
+         
+        font: 400 12px/22px Arial;
+        cursor: pointer;
+ }
+  #sites{
+          margin-top: 11px;  
+          cursor: pointer;
+        }
+  #copy{
+   font: 400 12px/22px Arial;
+   color: gray;
+   text-align: center;
+   cursor: pointer;
+  }
+  #privacy{
+        height: 20px;
+        width: 18%;
+        margin: auto;
+        text-align: center;
+        display: flex;
+  }
+
+  #term{
+   border: 1px solid rgb(224, 223, 223);
+   height: 30px;
+         width: 110%;
+        border-top: none;
+        border-left: none;
+        border-bottom: none;
+         
+  }
+  #mid{
+   border: 1px solid rgb(224, 223, 223);
+   height: 30px;
+        width: 30%;
+        border-top: none;
+        border-left: none;
+        border-bottom: none;
+         
+  }
+
+  h5{
+   margin-top: -2px;
+   cursor: pointer;
+  }
+  #likes{
+   /* border: 1px solid black; */
+   height: 600px;
+   width: 600px;
+    
+   display: grid;
+   grid-template-columns: repeat(4,1fr) ;
+    grid-gap:5px;
+    margin-left: 320px;
+    margin-top: 50px;
+}
+
+#likes>div{
+ cursor: pointer;
+}
+
+#add{
+ height: 100px;
+ width: 100%;
+}
+
+#company{
+font-size: 12px;
+color: gray;
+margin-top: -2px;
+margin-left: 10px;
+
+}
+
+#addline{
+  margin-top: -2px;
+}
