@@ -39,27 +39,29 @@ Firstpost is the news website we have made as a final group project. In this pro
   <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 </div>
 <h2>Responsibilities<h2>
-<h4>Rajesh Pradhan </h4>
-<p>Rajesh worked on the functionality of the lower navbar and right side navbar where users can read news related to the different topics as per the choice and help to make the bottom part also.</p>
- <div style="display: grid; grid-template-columns: repeat(2,1fr); gap:20px" >
 
-  <img style="width: 100%;" src="https://the-media-ant.mo.cloudinary.net/referenceArtworks/1647350273270/Screenshot%20%2875%29_logo.png?tx=w_350,h_200,c_fit" alt="">
- </div>
 
 <h4>Rushikesh Patil </h4>
 <p> Rushikesh made a navbar and its functionality like topic-wise news search through the search bar and sliding sidebar </p>
  <div style="display: grid; grid-template-columns: repeat(2,1fr); gap:20px " >
-  <img style="width: 100%;" src="https://github.com/thecodervaibhav/Orbitz.com-clone/blob/main/src/4.png" alt="">
-  <img style="width: 100%;" src="https://github.com/thecodervaibhav/Orbitz.com-clone/blob/main/src/5.png" alt="">
+  <img style="width: 100%;" src="https://miro.medium.com/max/720/1*-7k9K1_83P3aZw6hPXIvng.png" alt="">
 
+ </div>
+
+<h4>Rajesh Pradhan </h4>
+<p>Rajesh worked on the functionality of the lower navbar and right side navbar where users can read news related to the different topics as per the choice and help to make the bottom part also.</p>
+ <div style="display: grid; grid-template-columns: repeat(2,1fr); gap:20px" >
+
+  <img style="width: 100%;" src="https://miro.medium.com/max/720/1*8uGVL3WkWroTboehmbrbwQ.png" alt="">
+  <img style="width: 100%;" src="https://miro.medium.com/max/720/1*jiggliQqCio_gTc-0oGxgg.png" alt="">
  </div>
 
 
 <h4>Shital Suman</h4>
-<p> Suman worked on the footer as well as the home page of the website where users can read the top news of the day. </p>
+<p> Suman worked on the footer as well as the ads part of the website where users can see the list of sponsership in footer part. </p>
  <div style="display: grid; grid-template-columns: repeat(2,1fr); gap:20px " >
-  <img style="width: 100%;" src="https://github.com/thecodervaibhav/Orbitz.com-clone/blob/main/src/7.png" alt="">
-  <img style="width: 100%;" src="https://github.com/thecodervaibhav/Orbitz.com-clone/blob/main/src/8.png" alt="">
+  <img style="width: 100%;" src="https://miro.medium.com/max/720/1*N0Ky52eu-0mzrgnZ5itO1w.png" alt="">
+  <img style="width: 100%;" src="https://miro.medium.com/max/720/1*c8LpgjDDt3UQ80w9vVcxWQ.png" alt="">
 
  </div>
 
