@@ -4,7 +4,7 @@
 <h1 align="center"><a href="https://heroic-cucurucho-c5bc21.netlify.app" target="_blank"> FirstPost.com</a></h1>
 
 <p>
-This clone website is part of our project in masai school where we have to create a Replica of FirstPost.com which is biggest news website where you find latest news.
+Firstpost is the news website we have made as a final group project. In this project, we have used HTML, CSS, and JavaScript, and also we have used API to get the data.
 </p>
 
 <h2 align="left"><i>Tech Stack Use for Creating a FirstPost.com clone</i></h2>
